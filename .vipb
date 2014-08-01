@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.4" Created_Date="2012-09-21 16:03:41" Modified_Date="2013-06-17 16:19:47" Creator="Milan Raj" Comments="" ID="4911cb03f3b59aff081fd77e0f577bb1">
+<VI_Package_Builder_Settings Version="0.4" Created_Date="2012-09-21 16:03:41" Modified_Date="2013-06-19 21:50:13" Creator="Milan Raj" Comments="" ID="9859452d9ba2a63d398ff7d6b9110472">
   <Library_General_Settings>
     <Package_File_Name>i3_external_encryption</Package_File_Name>
-    <Library_Version>0.0.0.8</Library_Version>
+    <Library_Version>1.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\i3-external-encryption build</Library_Output_Folder>
@@ -32,11 +32,11 @@
     <VI_Package_Configuration_File>.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>The LabVIEW Encryption library packaged for use with the Interactive Internet Interface</One_Line_Description_Summary>
-      <Description>A 3rd party library packaged for use with the Interactive Internet Interface</Description>
+      <Description>A 3rd party library packaged for use with the Interactive Internet Interface. The LabVIEW Encryption library was created by Ton Plomp and is used for enabling HMAC signatures in the i3 OAuth Toolkit.</Description>
       <Copyright>Copyright (c) 2011, Ton Plomp</Copyright>
       <Packager>Ton Plomp</Packager>
       <URL>https://decibel.ni.com/content/groups/interactive-internet-interface</URL>
-      <Release_Notes>Change to LVH directory</Release_Notes>
+      <Release_Notes>Initial LabVIEW Tools Network release of the LabVIEW Encryption Library by Ton Plomp</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
